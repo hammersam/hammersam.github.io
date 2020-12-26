@@ -1,0 +1,3 @@
+[submodule "themes/pandollo"]
+	path = themes/pandollo
+	url = https://github.com/lyndonoc/hexo-theme-pandollo.git
